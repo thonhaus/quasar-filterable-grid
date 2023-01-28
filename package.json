@@ -1,0 +1,21 @@
+{
+    "name": "quasar-filterable-grid",
+    "version": "0.0.1",
+    "description": "A Quasar component for filtering and searching a grid",
+    "author": {
+        "name": "Thomas Nienhaus",
+        "email": "thomas@thomas-nienhaus.net"
+    },
+    "license": "MIT",
+    "main": "src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thonhaus/quasar-filterable-grid.git"
+    },
+    "keywords": [
+        "quasar",
+        "filter",
+        "grid",
+        "table"
+    ]
+}
