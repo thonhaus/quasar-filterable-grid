@@ -1,5 +1,5 @@
 {
-    "name": "quasar-filterable-grid",
+    "name": "quasar-app-extension-filterable-grid",
     "version": "0.0.1",
     "description": "A Quasar component for filtering and searching a grid",
     "author": {
